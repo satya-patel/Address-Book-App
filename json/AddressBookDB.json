@@ -1,0 +1,22 @@
+{
+  "AddressBookDB": [
+    {
+      "_fullName": "satya patel",
+      "_address": "11/1, satyam palace, konch",
+      "_phoneNumber": "9599141150",
+      "_city": "konch",
+      "_state": "u.p",
+      "_zip": "285205",
+      "id": 1
+    },
+    {
+      "_fullName": " rahul ",
+      "_address": "1/2, orai",
+      "_phoneNumber": "8127883656",
+      "_city": "orai",
+      "_state": "u.p",
+      "_zip": "285205",
+      "id": 2
+    }
+  ]
+}
